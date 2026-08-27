@@ -15,7 +15,7 @@ Profiled latency: 0.82 s data fetch, 0.267 s order routing, 60 s cadence matched
 <img width="1918" height="879" alt="LIve_trading" src="https://github.com/user-attachments/assets/c5a0eff7-02ea-4ce8-825d-0bad445168d7" />
 
 ## Project Report
-<img width="943" height="418" alt="image" src="https://github.com/user-attachments/assets/4698e0f9-186d-4ef5-9fda-cb160f1730cb" />
+<img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/b3944115-1d75-4d07-9bbc-f6322aa12f2b" />
 <img width="931" height="379" alt="image" src="https://github.com/user-attachments/assets/cd7e0d23-f0da-4417-850e-1019381a0105" />
 <img width="943" height="461" alt="image" src="https://github.com/user-attachments/assets/78d59ae4-08d8-4a46-b314-3ede92de489e" />
 <img width="941" height="232" alt="image" src="https://github.com/user-attachments/assets/d335b8e7-2412-436b-961c-1e1bd901d9c5" />
